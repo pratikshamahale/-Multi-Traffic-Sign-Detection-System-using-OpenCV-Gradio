@@ -1,10 +1,26 @@
-# -Multi-Traffic-Sign-Detection-System-using-OpenCV-Gradio
-
 # 🚦 Multi Traffic Sign Detection System using OpenCV & Gradio
 
 This project is a computer vision–based Traffic Sign Detection System that identifies common traffic signs and signals using color segmentation and shape detection techniques. The system provides a simple and interactive web interface using Gradio.
 
 ---
+
+## 📸 Project Screenshots
+
+### Upload Image Interface
+<img width="1920" height="1020" alt="Screenshot 2026-01-29 175515" src="https://github.com/user-attachments/assets/63240e5d-7e0e-47ce-b314-4998107b6cde" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-29 175530" src="https://github.com/user-attachments/assets/c8593d42-1a65-495b-a0cb-425e77c4e0c5" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-29 175542" src="https://github.com/user-attachments/assets/c894c677-afe2-4003-b467-8b373e902a0a" />
+
+
+
+
+### Detection Result
+<img width="1920" height="1020" alt="Screenshot 2026-01-29 175610" src="https://github.com/user-attachments/assets/f12d6555-3546-42cd-a983-7a2c823b14cd" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-29 180628" src="https://github.com/user-attachments/assets/bbfcd695-6e23-44f1-ab4c-f2bf5d7456c7" />
+
+
+
+
 
 ## 🔍 Features
 
@@ -84,23 +100,8 @@ Integrate Deep Learning (CNN) for advanced detection
 
 Real-time video detection
 
-👩‍💻 Author
-
-Pratiksha Chavan
-Engineering Student | Python & Computer Vision Enthusiast
-
 ⭐ Acknowledgment
 
 This project is developed for learning and academic purposes using OpenCV and Gradio.
 
 
----
-
-If you want, I can:
-- ✨ Make this **more attractive for recruiters**
-- 📄 Add **project screenshots section**
-- 🌐 Prepare **Hugging Face deployment README**
-- 🧠 Simplify language for **college submission**
-
-Just say the word 😄
-::contentReference[oaicite:0]{index=0}
