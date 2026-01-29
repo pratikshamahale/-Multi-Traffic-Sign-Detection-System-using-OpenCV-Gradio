@@ -68,7 +68,7 @@ python app.py
 
 Open the Gradio link displayed in the terminal.
 
-📸 Screenshots
+## 📸 Screenshots
 🔹 Input Image
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 175515" src="https://github.com/user-attachments/assets/47ec886f-801f-4834-b11c-b3ff3021dde5" />
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 175530" src="https://github.com/user-attachments/assets/7c1efd72-c544-4043-a0d5-a78051ff78ca" />
@@ -76,58 +76,58 @@ Open the Gradio link displayed in the terminal.
 
 
 
-🔹 Red Signal Detection
+* 🔹 Red Signal Detection
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 180628" src="https://github.com/user-attachments/assets/2dda0f83-7d28-419f-9a6f-62ebf99d34fb" />
 
 
-🔹 Yellow Signal Detection
+* 🔹 Yellow Signal Detection
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 181759" src="https://github.com/user-attachments/assets/53a9086e-7cbb-44d9-9acf-78326a220ba2" />
 
 
-🔹 Green Signal Detection
+* 🔹 Green Signal Detection
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 175610" src="https://github.com/user-attachments/assets/be9e47cc-804b-4d47-b4ad-5d31afc17554" />
 
 
-📊 Output
+## 📊 Output
 
-Traffic sign detected from the uploaded image
+* Traffic sign detected from the uploaded image
 
-Traffic light color correctly identified
+* Traffic light color correctly identified
 
-Detection result displayed via web interface
-
-
-🚀 Applications
-
-Intelligent Transportation Systems (ITS)
-
-Autonomous Vehicles
-
-Smart Traffic Management
-
-Advanced Driver Assistance Systems (ADAS)
-
-Road Safety Automation
+* Detection result displayed via web interface
 
 
-🌱 Future Enhancements
+## 🚀 Applications
 
-Real-time detection using live camera feed
+* Intelligent Transportation Systems (ITS)
 
-Deep learning–based detection using CNN or YOLO
+* Autonomous Vehicles
 
-Improved accuracy in complex environments
+* Smart Traffic Management
 
-Detection of multiple traffic signs simultaneously
+* Advanced Driver Assistance Systems (ADAS)
 
-
-👩‍💻 Author
-
-Name: Pratiksha Chavan
-Domain: Python & Computer Vision
-Skills: Python, OpenCV, NumPy, Data Analytics, Image Processing
+* Road Safety Automation
 
 
-📜 License
+## 🌱 Future Enhancements
 
-This project is developed for educational purposes and is free to use with proper credit.
+* Real-time detection using live camera feed
+
+* Deep learning–based detection using CNN or YOLO
+
+* Improved accuracy in complex environments
+
+* Detection of multiple traffic signs simultaneously
+
+
+## 👩‍💻 Author
+
+* Name: Pratiksha Chavan
+* Domain: Python & Computer Vision
+* Skills: Python, OpenCV, NumPy, Data Analytics, Image Processing
+
+
+## 📜 License
+
+* This project is developed for educational purposes and is free to use with proper credit.
