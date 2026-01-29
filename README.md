@@ -10,6 +10,7 @@ This project is a computer vision–based Traffic Sign Detection System that ide
 - Recognize road signs such as Stop, No Entry, Speed Limit, and Pedestrian Crossing
 - Apply practical computer vision concepts
 - Understand rule-based traffic sign recognition
+- 
 
 - Traffic-Sign-Detection/
 │
@@ -44,6 +45,9 @@ This project is a computer vision–based Traffic Sign Detection System that ide
 git clone https://github.com/your-username/traffic-sign-detection.git
 
 
+
+
+
 ## 📸 Project Screenshots
 
 ### Upload Image Interface
@@ -58,6 +62,8 @@ git clone https://github.com/your-username/traffic-sign-detection.git
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 175610" src="https://github.com/user-attachments/assets/f12d6555-3546-42cd-a983-7a2c823b14cd" />
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 180628" src="https://github.com/user-attachments/assets/bbfcd695-6e23-44f1-ab4c-f2bf5d7456c7" />
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 181759" src="https://github.com/user-attachments/assets/ff4cac8f-4b57-40d9-aaa9-6da8a45aaccf" />
+
+
 
 
 
