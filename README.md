@@ -4,6 +4,46 @@ This project is a computer vision–based Traffic Sign Detection System that ide
 
 ---
 
+## 🎯 Objectives
+- Detect traffic signs from image input
+- Identify traffic light state (Red / Yellow / Green)
+- Recognize road signs such as Stop, No Entry, Speed Limit, and Pedestrian Crossing
+- Apply practical computer vision concepts
+- Understand rule-based traffic sign recognition
+
+- Traffic-Sign-Detection/
+│
+├── app.py # Main Python application
+├── README.md # Project documentation
+├── requirements.txt # Required libraries
+├── screenshots/ # Project screenshots
+│ ├── input.png
+│ ├── red_signal.png
+│ ├── yellow_signal.png
+│ └── green_signal.png
+└── sample_images/ # Test images
+
+
+---
+
+## ⚙️ Working Methodology
+1. Load the input image using Gradio interface
+2. Convert the image to HSV and Grayscale color spaces
+3. Apply color thresholding for Red, Yellow, Green, and Blue
+4. Perform edge detection and contour extraction
+5. Identify traffic signs using shape and color analysis
+6. Classify the detected traffic sign or signal
+7. Display the detection result to the user
+
+---
+
+## ▶️ How to Run the Project
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/traffic-sign-detection.git
+
+
 ## 📸 Project Screenshots
 
 ### Upload Image Interface
@@ -17,9 +57,21 @@ This project is a computer vision–based Traffic Sign Detection System that ide
 ### Detection Result
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 175610" src="https://github.com/user-attachments/assets/f12d6555-3546-42cd-a983-7a2c823b14cd" />
 <img width="1920" height="1020" alt="Screenshot 2026-01-29 180628" src="https://github.com/user-attachments/assets/bbfcd695-6e23-44f1-ab4c-f2bf5d7456c7" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-29 181759" src="https://github.com/user-attachments/assets/ff4cac8f-4b57-40d9-aaa9-6da8a45aaccf" />
 
 
 
+🚀 Applications
+
+Intelligent Transportation Systems (ITS)
+
+Autonomous Vehicles
+
+Smart Traffic Management
+
+Advanced Driver Assistance Systems (ADAS)
+
+Road Safety Automation
 
 
 ## 🔍 Features
@@ -100,8 +152,14 @@ Integrate Deep Learning (CNN) for advanced detection
 
 Real-time video detection
 
-⭐ Acknowledgment
+👩‍💻 Author
 
-This project is developed for learning and academic purposes using OpenCV and Gradio.
+Name: Pratiksha Chavan
+Domain: Python & Computer Vision
+Skills: Python, OpenCV, NumPy, Data Analytics, Image Processing
+
+📜 License
+
+This project is developed for educational purposes and is free to use with proper credit.
 
 
